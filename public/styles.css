@@ -46,7 +46,7 @@ p {
 
 h2{
     display: flex;
-    margin-top: 2%;
+    margin-top: 5%;
     color: goldenrod;
     background-color: black;
     border-color: goldenrod;
@@ -56,7 +56,7 @@ h2{
 
 button{
     display: flex;
-    margin-top: 20%;
+    margin-top: 30%;
     color: goldenrod;
     background-color: black;
     border-color: goldenrod;
